@@ -6,7 +6,7 @@ We function as a platform where researchers, developers and other professionals 
 
 A CTVC é uma cooperativa de profissionais e startups de tecnologia em Viana do Castelo. Juntos, partilhamos recursos, conhecimento e oportunidades.
 
-- Site: [cooptech.pt](https://cooptech.pt) ([about](https://cooptech.pt/en/about/), [sobre](https://cooptech.pt/pt/about/))
+- Site: [cooptech.pt](https://cooptech.pt)
 - Membership: [cooptech.pt/en/membership](https://cooptech.pt/en/membership/)
 - News: [cooptech.pt/en/news](https://cooptech.pt/en/news/)
 - Contact: info@ctvc.pt
